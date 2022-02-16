@@ -6,7 +6,6 @@ spec:
   selector:
     matchLabels:
       app: gateway
-      time: '1'
   template:
     spec:
       containers:
