@@ -8,4 +8,5 @@ images:
 - name: minhdtb/storeo-gateway
   newTag: latest
 commonLabels:
+  app: gateway
   time: "2"

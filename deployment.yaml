@@ -7,9 +7,6 @@ spec:
     matchLabels:
       app: gateway
   template:
-    metadata:
-      labels:
-        app: gateway
     spec:
       containers:
         - name: gateway
