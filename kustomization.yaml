@@ -9,4 +9,4 @@ images:
   newTag: latest
 commonLabels:
   app: gateway
-  time: "2"
+  time: "3"
