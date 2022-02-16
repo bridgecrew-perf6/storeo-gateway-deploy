@@ -18,7 +18,5 @@ spec:
             - containerPort: 4000
               name: gateway
           env:
-            - name: TIMESTAMP
-              value: 'empty'
             - name: COMMON_SERVICE
               value: common.storeo.svc.cluster.local
