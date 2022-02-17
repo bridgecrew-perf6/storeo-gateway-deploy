@@ -8,4 +8,4 @@ images:
 - name: minhdtb/storeo-gateway
   newTag: latest
 commonAnnotations:
-  time: "1"
+  time: "2"
