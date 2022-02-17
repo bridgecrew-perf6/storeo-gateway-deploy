@@ -7,6 +7,3 @@ namespace: storeo
 images:
 - name: minhdtb/storeo-gateway
   newTag: latest
-commonLabels:
-  app: gateway
-  time: "1645009221"
