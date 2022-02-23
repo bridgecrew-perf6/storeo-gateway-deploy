@@ -21,3 +21,5 @@ spec:
           env:
             - name: COMMON_SERVICE
               value: common.storeo.svc.cluster.local
+            - name: SHOP_SERVICE
+              value: shop.storeo.svc.cluster.local
